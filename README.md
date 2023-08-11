@@ -1,16 +1,6 @@
-# custom_graph_test
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 다각형 막대 그래프 테스트
+## 기본 공식
+~~~
+비율 = (원하는 크기 / 전체 데이터 값)  
+비율에 맞는 데이터 사이즈 = 비율 * 측정하고싶은 데이터 값
+~~~
